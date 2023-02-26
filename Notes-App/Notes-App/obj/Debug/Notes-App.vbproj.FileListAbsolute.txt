@@ -1,0 +1,12 @@
+E:\.NET\Notes-App\Notes-App\bin\Debug\Notes-App.exe.config
+E:\.NET\Notes-App\Notes-App\bin\Debug\Notes-App.exe
+E:\.NET\Notes-App\Notes-App\bin\Debug\Notes-App.pdb
+E:\.NET\Notes-App\Notes-App\bin\Debug\Notes-App.xml
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes-App.vbproj.AssemblyReference.cache
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes_App.Resources.resources
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes-App.vbproj.GenerateResource.cache
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes-App.vbproj.CoreCompileInputs.cache
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes-App.exe
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes-App.xml
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes-App.pdb
+E:\.NET\Notes-App\Notes-App\obj\Debug\Notes_App.Form1.resources

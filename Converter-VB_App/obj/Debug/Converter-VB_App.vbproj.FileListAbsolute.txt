@@ -1,0 +1,15 @@
+E:\.NET\Converter-VB_App\Converter-VB_App\bin\Debug\Converter-VB_App.exe.config
+E:\.NET\Converter-VB_App\Converter-VB_App\bin\Debug\Converter-VB_App.exe
+E:\.NET\Converter-VB_App\Converter-VB_App\bin\Debug\Converter-VB_App.pdb
+E:\.NET\Converter-VB_App\Converter-VB_App\bin\Debug\Converter-VB_App.xml
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter-VB_App.vbproj.AssemblyReference.cache
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter_VB_App.Form1.resources
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter_VB_App.Resources.resources
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter-VB_App.vbproj.GenerateResource.cache
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter-VB_App.vbproj.CoreCompileInputs.cache
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter-VB_App.exe
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter-VB_App.xml
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter-VB_App.pdb
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter_VB_App.Form2.resources
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter_VB_App.Form3.resources
+E:\.NET\Converter-VB_App\Converter-VB_App\obj\Debug\Converter_VB_App.Form4.resources
