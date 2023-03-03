@@ -1,7 +1,5 @@
 ﻿Public Class Form1
 
-
-
     Private Sub Panel1_MouseMove(sender As Object, e As MouseEventArgs) Handles Panel1.MouseMove
         Panel1.BackColor = Color.Gold
     End Sub
